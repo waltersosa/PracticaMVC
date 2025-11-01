@@ -5,12 +5,14 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.6.3",
     "@oracle/oraclejet": "~6.0.0",
+    "install": "^0.13.0",
     "jasmine-core": "^3.3.0",
     "karma": "^4.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-coverage": "^1.1.2",
     "karma-jasmine": "^2.0.1",
     "karma-requirejs": "^1.1.0",
+    "node": "^25.1.0",
     "trumbowyg": "^2.13.0"
   },
   "devDependencies": {
@@ -18,7 +20,7 @@
     "@oracle/oraclejet-tooling": "~6.0.0",
     "grunt": "^1.0.1",
     "load-grunt-config": "0.19.2",
-    "node-sass": "^4.7.2",
+    "node-sass": "^9.0.0",
     "qunit": "^2.4.1",
     "qunit-reporter-junit": "^1.1.1"
   },
